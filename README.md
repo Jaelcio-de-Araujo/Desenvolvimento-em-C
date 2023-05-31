@@ -1,2 +1,2 @@
 # devC
-Estudos em C
+Exemplos de código em linguagem c.
